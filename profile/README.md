@@ -1,8 +1,8 @@
 ***
 # _*Hello World*_ 
-## _WELCOME TO GINYOS_
+## _WELCOME TO CODEZ_
 ***
-### CHECK OUR BLOG :- http://ginyos.blogspot.com
+### CHECK OUR BLOG :- http://blog.vikramsrinivas.me
 ### BOT :- http://tinyurl.com/ginyosbot ; BOT EMAIL ID 📧 :- <Ginyos@bot.snatchbot.me>;
 ### #Ginyos
 # Github:- https://github.com/vikram2009
