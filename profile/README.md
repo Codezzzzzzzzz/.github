@@ -5,7 +5,7 @@
 
 ### CHECK OUR BLOG :- https://blog.vikramsrinivas.me
 ### BOT :- http://tinyurl.com/ginyosbot ; BOT EMAIL ID 📧 :- <Ginyos@bot.snatchbot.me>;
-### #Ginyos
+### @vikram2009
 # Github:- https://github.com/vikram2009
 
 ***
